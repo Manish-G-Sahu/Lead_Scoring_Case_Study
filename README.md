@@ -24,7 +24,7 @@ There are some more problems presented by the company which your model should be
 - Precision -Recall
 
 ## Details of files given
-Lead_Score_Case_Study_Py.ipynb : The python file showing coding and data analysis.
-Subjective_Questions.pdf : Some subjective questions and their answers
-Lead_Score_Case_Study_PDF.pdf : Detailed Presentation
-Summary.PDF.pdf : Summary of the Analysis.
+- Lead_Score_Case_Study_Py.ipynb : The python file showing coding and data analysis.
+- Subjective_Questions.pdf : Some subjective questions and their answers
+- Lead_Score_Case_Study_PDF.pdf : Detailed Presentation
+- Summary.PDF.pdf : Summary of the Analysis.
